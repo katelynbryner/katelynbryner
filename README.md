@@ -4,15 +4,22 @@ Hello! 👋  I’m Katelyn Bryner. A designer-developer hybrid working to make t
 An early memory is of my father sitting beside me at the computer. He opened a text editor and started to outline a basic coding structure for a website. He taught me about HTML and CSS and let me run wild to explore the possibilities. I was 14 years old.
 
 
-⏩  **Fast forward to how it played out:**
+### ⏩  Fast forward to how it played out:
+
+
 ⟶ Professionally trained visual designer and design strategist.
+
 ⟶ Learned the ropes working full time throughout an early-college program in high school.
+
 ⟶ Completed college at 19, becoming an expert in UX design, strategy, & innovative acceleration.
+
 ⟶ Journeyed into larger design projects where I designed, developed & managed creative assets.
+
 ⟶ Moved design projects from concept to development at many businesses in a variety of industries.
 
 
-📅  **Which brings us to today:**
+### 📅  Which brings us to today:
+
 ⟶ Working with amazing individuals, team leaders and scrum teams as a Mid-level UI/UX Designer.
 
 
