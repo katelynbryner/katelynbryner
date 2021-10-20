@@ -1,9 +1,6 @@
 Hello! 👋  I’m Katelyn Bryner. A designer-developer hybrid working to make the user central to everything I do.
 
 
-![](https://drive.google.com/file/d/1v4w4_iwjZkGJ_oUJP3n3KSQ4XcxVEP0F/view?usp=sharing)
-
-
 An early memory is of my father sitting beside me at the computer. He opened a text editor and started to outline a basic coding structure for a website. He taught me about HTML and CSS and let me run wild to explore the possibilities. I was 14 years old.
 
 
